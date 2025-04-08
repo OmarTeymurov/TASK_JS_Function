@@ -4,7 +4,7 @@
   }
   
   logGreeting("Omar");
- */ 
+  */
 
 //Task2
 /*function Userstatus(username) {
@@ -90,3 +90,4 @@ console.log(isEven())
 sade_eded_olub_olmadigi(11); // 11 sadedir
 sade_eded_olub_olmadigi(10); // 10 sade deyil
 */
+
